@@ -59,9 +59,9 @@ html, body {
     border-color: white;
     color: rgb(218, 224, 224);
 
-  
+   
+    margin-left: 40% ;
     margin-top: 5px;
-    margin-right: auto;
     font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
     font-size: 30px; 
     font-style: normal; 
@@ -95,9 +95,8 @@ p{
     border-width: 10px;
     border-radius: 10px;
     
-    
-    width: 400px ;
-    height: 300px;
+    margin-top: px;
+   
     float: left;    
 
 
@@ -135,5 +134,34 @@ p{
   
 
 
+
+}
+#h1b{
+  border: 5px solid;
+  border-radius: 5%;
+  width: 400px ;
+  height: 30px;
+  border-color: white;
+  color: rgb(218, 224, 224);
+
+
+  margin-top: 550px;
+  margin-right: auto;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
+  font-size: 30px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 700;
+}
+
+
+
+.fa-house {
+    color: rgb(255, 255, 255);
+    
+    margin-top: 20px;
+    float: left;
+    
+    
 
 }
