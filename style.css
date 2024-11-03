@@ -56,13 +56,15 @@ html, body {
     color: rgb(218, 224, 224);
 
    
-    margin-left: 40% ;
+    margin-left: 45% ;
+    margin-right: 50%;
     margin-top: 5px;
     font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
     font-size: 30px; 
     font-style: normal; 
     font-variant: normal; 
     font-weight: 700;
+    width:fit-content; width:-webkit-fit-content; width:-moz-fit-content;
     
 }
 
@@ -81,7 +83,8 @@ p{
     color: rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
-    
+    float: right;
+    margin-right: 1010px;
 
 }
 
@@ -90,10 +93,9 @@ p{
     border-color: rgb(202, 208, 209);
     border-width: 10px;
     border-radius: 10px;
-    
-    margin-top: px;
-   
-    float: left;    
+    width:fit-content; width:-webkit-fit-content; width:-moz-fit-content;
+    float: left;
+        
 
 
 
